@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Trebuchet MS";
 }
 
 .form {
@@ -13,4 +14,12 @@
   width: 300px;
   height: 60px;
   margin: 10px;
+}
+
+.card {
+  width: 600px;
+  height: 350px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 5px;
 }
